@@ -2,9 +2,9 @@
   "name": "Botrito",
   "description": "Botrito",
   "version": "0.0.0",
-  "main": Bot.py",
+  "main": bot.py",
   "scripts": {
-    "start": "python Bot.py"
+    "start": "python bot.py"
   },
   "dependencies": {
     "discord.py": "11.1.0",
